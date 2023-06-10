@@ -33,7 +33,6 @@ public Pytania() {
     }
 
     private static Pytanie stworzPytaniaZElementow(String[] elementy) {
-
         return new Pytanie(elementy[0], elementy[1], elementy[2], elementy[3], elementy[4], elementy[5]);
     }
 

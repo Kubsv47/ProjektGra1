@@ -1,0 +1,39 @@
+Które z tych miast jest stolicą Japonii?, Tokio, Kioto, Osaka, Nagoya,a
+Która z tych planet jest znana jako "Wieczorny Gwiazdor"?, Wenus, Mars, Jowisz, Saturn,a
+Które z tych państw jest największym producentem kawy na świecie?, Brazylia, Kolumbia, Etiopia, Wietnam,a
+Które z tych zwierząt jest symbolizowane przez pandę w chińskiej kulturze?, Smok, Tygrys, Lew, Wąż,a
+Która z tych planet jest najbliższa Ziemi?, Wenus, Mars, Merkury, Jowisz,c
+Która z tych górskich formacji jest najwyższa na świecie?, Mont Blanc, Mount Everest, Mount Kilimandżaro, Mount McKinley,b
+Która z tych planet jest znana ze swojego pięknego pierścienia?, Wenus, Mars, Jowisz, Saturn,d
+Które z tych zwierząt jest największym ssakiem na Ziemi?, Słoń, Rekin wielorybi, Niedźwiedź polarny, Lampart,b
+Który z tych kontynentów jest najmniej zaludniony?, Azja, Australia, Afryka, Europa,b
+Które z tych instrumentów muzycznych jest największe?, Gitara, Skrzypce, Flet, Puzon,d
+Które z tych zjawisk atmosferycznych jest odpowiedzialne za powstanie tęczy?, Burza śnieżna, Opady gradu, Deszcz, Mgła,c
+Które z tych języków jest najbardziej powszechnie używanym językiem na świecie?, Angielski, Chiński (mandaryński), Hiszpański,  Hindi,a
+Która z tych figur geometrycznych ma cztery boki o jednakowej długości?, Kwadrat, Trójkąt, Prostokąt, Romb,a
+Który z tych oceanów znajduje się między Australią a Ameryką Południową?, Ocean Spokojny, Ocean Indyjski, Ocean Atlantycki, Ocean Arktyczny,a
+Który z tych filmów jest adaptacją powieści J.R.R. Tolkiena?, "Harry Potter i Kamień Filozoficzny", "Władca Pierścieni: Drużyna Pierścienia", "Matrix", "Przebudzenie Mocy",b
+Które z tych zwierząt jest największym drapieżnikiem lądowym?, Tygrys, Lew, Niedźwiedź polarny, Hiena,a
+Który z tych kontynentów jest najmniejszy pod względem powierzchni?, Europa, Ameryka Północna, Australia, Afryka,c
+Która z tych rzek jest najdłuższa na świecie?, Nil, Amazonka, Jangcy, Missisipi,a
+Które z tych państw nie należy do Unii Europejskiej?, Francja, Szwecja, Włochy, Szwajcaria,d
+Kto namalował obraz Mona Lisa?, Vincent van Gogh, Pablo Picasso, Leonardo da Vinci, Michelangelo,c
+Jak nazywa się największa wyspa na świecie?, Grenlandia, Australia, Madagaskar, Wielka Brytania,a
+Który z tych sportów nie jest olimpijski?, Piłka nożna, Koszykówka, Hokej na lodzie, Baseball,d
+Który kraj jest znany jako "Kraina Smoków"?, Włochy, Grecja, Japonia, Chiny,c
+Który kraj jest największym producentem czekolady na świecie?, Szwajcaria, Belgia, Niemcy, Francja,b
+Które miasto jest uważane za kolebkę renesansu?, Rzym, Florencja, Wenecja, Mediolan,b
+Która z tych gier jest wyprodukowana przez firmę Ubisoft?, Grand Theft Auto V, The Legend of Zelda: Breath of the Wild, Assassin s Creed II, Call of Duty: Modern Warfare,c
+Która z tych gier jest osadzona w postapokaliptycznym świecie z zombie?, The last of US, Overwatch, The Witcher 3: Wild Hunt, League of Legends,a
+Która z tych gier jest wyprodukowana przez studio CD Projekt Red?, Red Dead Redemption 2,  The Last of Us Part II, Cyberpunk 2077, God of War,c
+Która z tych gier jest z gatunku platformówki?, Battlefield 1, Resident Evil 7, Celeste, World of Warcraft,c
+W którym roku została wydana gra "The Elder Scrolls V: Skyrim"?, 2009, 2011, 2013, 2015,b
+Która firma jest odpowiedzialna za stworzenie gry "Fortnite"?, Electronic Arts, Ubisoft, Epic Games, Blizzard Entertainment,c
+Która gra komputerowa rozgrywa się w fikcyjnym świecie Azeroth?, Minecraft, World of Warcraft, The Sims, Fortnite,b
+Która gra jest osadzona w świecie science fiction gdzie gracze walczą przeciwko obcym rasom?, Destiny 2, Rocket League, The Witcher 3: Wild Hunt, Stardew Valley,a
+Który serial opowiada historię narkotykowego imperium i postaci takie jak Walter White i Jesse Pinkman?, Breaking Bad, Stranger Things, The Crown, Game of Thrones,a
+Który serial opowiada o losach rodu Starków Lannisterów i Targaryenów w fikcyjnym świecie Westeros?, The Walking Dead, Stranger Things, Breaking Bad, Gra o tron,d
+Który serial opowiada historię narkotykowego imperium w Meksyku, Peaky Blinders, The Crown, Better Call Saul, Narcos,d
+Który serial science-fiction rozgrywa się w futurystycznym świecie w którym wszyscy są połączeni przez kolektywną świadomość?, Black Mirror, Westworld, Sense8, Stranger Things,c
+Który serial opowiada historię rodzeństwa Shelbych gangsterów działających w latach 20. w Birmingham?, Sons of Anarchy, Gomorra, Peaky Blinders, Breaking Bad,c
+Który serial opowiada o grupie więźniów planujących ucieczkę z więzienia Fox River State?, Prison Break, Breaking Bad, The Crown, Stranger Things,a
